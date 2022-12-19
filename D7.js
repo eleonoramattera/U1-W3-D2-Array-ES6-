@@ -87,7 +87,7 @@ const arrStringhe = (array) => {
 };
 
 console.log("--------------ESERCIZIO 8---------------");
-console.log(arrStringhe(["Ciao", "a", "utti"]));
+console.log(arrStringhe(["Ciao", "a", "yutti"]));
 
 /* ESERCIZIO 9
   Scrivi una funzione per creare un array contenente tutti i valori DISPARI da 1 a 99.
